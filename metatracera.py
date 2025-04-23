@@ -21,7 +21,8 @@ def print_banner():
   / / / / / /  __/ /_/ /_/ / /_/ /  / /_/ / /__/  __/ /  / /_/ / 
  /_/ /_/ /_/\___/\__/\__,_/\__/\_/   \__,_/\___/\___/_/   \__,_/  
                                                                   
-                              MetaTraceRA                        
+                     [ Metadata Trace & Analysis CLI ]             
+                       [ MetaTraceRA Created By RL ]                        
 '''
     print(banner)
 
